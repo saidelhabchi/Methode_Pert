@@ -4,3 +4,5 @@
 utiliser les commandes : 
 pip install openpyxl
 pip install pandas
+fichier input excel : input.xlsx contient une table de donnée
+fichier output sera généré automatiquement
